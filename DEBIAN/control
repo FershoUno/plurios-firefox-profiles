@@ -4,6 +4,7 @@ Architecture: CHANGE_ARCH
 Maintainer: CHANGE_MAINTAINER
 Installed-Size: CHANGE_SIZE
 Section: CHANGE_SECTION
+Depends: plurios-welcome
 Priority: optional
 Homepage: https://github.com/FershoUno/plurios-firefox-profiles
 Description: PluriOS Firefox profiles
